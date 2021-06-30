@@ -1,0 +1,34 @@
+V1.
+
+Clases python
+Disenio Cartas:
+    Iconos 
+    tipos de Cartas (por definir)
+    ataque (unit)
+    boost (efect)
+Jinja2 : resuelto
+
+Llamadas a bootstrap, jquery, hoja css
+
+feature adicional, crear clase de jugadores
+feature adicional, crear tablero y cartas que entran y salen del tablero
+
+V2.
+Features
+    Rarity
+    Qué pasa si stats bajan de 0
+    Qué pasa si se ingresan tipos de datos que no corresponden
+    
+V3.
+Features
+    Spells para cartas fuera y dentro del mazo
+    Flipping cards
+
+
+Cambiar imagenes
+Ajustar cuadrito imagenes
+Aumentar ancho de la carta (Ajustar titulos)
+
+1) Ancho title cartas
+2) Imagen de Fondo
+3)
